@@ -62,7 +62,7 @@ There are 23 messages in Cluster 4 represent messages from Malaysia
 #### Thai Data Cluster
 ![image2](./src/files/clusters_thai.png)
 
-This dataset contains 147 rows of English messages.
+This dataset contains 147 rows of Thai messages.
 
 After cleaning the texts and filtering out unused words, the text messages are converted to Tf-idf vector then do clustering using k-means with number of cluster equal to 4.
 
